@@ -46,5 +46,6 @@
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> &nbsp;&nbsp;
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
  &nbsp;&nbsp;
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=frontend-rafi&show_icons=true&locale=en&layout=compact" alt="frontend-rafi" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=frontend-rafi&show_icons=true&locale=en&layout=compact" alt="frontend-rafi" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frontend-rafi&show_icons=true&locale=en" alt="frontend-rafi" /></p>
+ -->
